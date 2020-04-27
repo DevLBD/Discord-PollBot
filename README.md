@@ -1,4 +1,4 @@
-# Discord-PollBot
+# Discord Poll Bot.
 ## A simple Discord Poll Bot.
 
 In this repository you can find the code that you need to setup a simple Discord bot that helps you create polls.
